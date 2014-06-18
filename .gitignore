@@ -1,3 +1,4 @@
 local
 .perl-version
 *.swp
+cpanfile.snapshot
